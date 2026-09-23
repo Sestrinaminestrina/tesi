@@ -1,46 +1,46 @@
-import asyncio
 import csv
 import os
 
-from TikTokApi import TikTokApi
+from apify_client import ApifyClient
+from dotenv import load_dotenv
 
-# token di sessione da copiare dai cookie del browser (chiave "msToken")
-# necessario perché tiktok richiede una verifica anti-bot per accettare le richieste
-ms_token = os.environ.get("ms_token_tiktok")
+load_dotenv()
+
+# token di autenticazione apify, letto dalla variabile d'ambiente APIFY_API_TOKEN
+# necessario per avviare gli actor e leggere i risultati dal proprio account apify
+token_apify = os.environ.get("APIFY_API_TOKEN")
 
 
-async def ottieni_video_hashtag(hashtag, numero_video=30):
-    # recupera i video pubblicati sotto un determinato hashtag di tiktok
+def ottieni_video_hashtag(hashtag, numero_video=30):
+    # avvia l'actor apify "clockworks/tiktok-scraper" per un hashtag tiktok
     # restituisce una lista di dizionari con i dati principali di ogni video
+    client = ApifyClient(token_apify)
+
+    input_actor = {
+        "hashtags": [hashtag],
+        "resultsPerPage": numero_video,
+    }
+
+    # call() attende il termine dell'esecuzione e restituisce i metadati del run
+    esecuzione = client.actor("clockworks/tiktok-scraper").call(run_input=input_actor)
+
     video_trovati = []
 
-    async with TikTokApi() as api:
-        # headless=False e webkit riducono il rischio che tiktok rilevi il bot
-        await api.create_sessions(
-            ms_tokens=[ms_token],
-            num_sessions=1,
-            sleep_after=3,
-            headless=False,
-            browser="webkit",
-        )
+    # i risultati dell'actor vengono scritti in un dataset legato all'esecuzione
+    for dati in client.dataset(esecuzione["defaultDatasetId"]).iterate_items():
+        autore = dati.get("authorMeta", {}).get("name")
+        id_video = dati.get("id")
 
-        tag = api.hashtag(name=hashtag)
-
-        async for video in tag.videos(count=numero_video):
-            dati = video.as_dict
-            autore = dati.get("author", {}).get("uniqueId")
-            id_video = dati.get("id")
-
-            video_trovati.append({
-                "id": id_video,
-                "autore": autore,
-                "descrizione": dati.get("desc"),
-                "like": dati.get("stats", {}).get("diggCount"),
-                "commenti": dati.get("stats", {}).get("commentCount"),
-                "condivisioni": dati.get("stats", {}).get("shareCount"),
-                "visualizzazioni": dati.get("stats", {}).get("playCount"),
-                "url": f"https://www.tiktok.com/@{autore}/video/{id_video}",
-            })
+        video_trovati.append({
+            "id": id_video,
+            "autore": autore,
+            "descrizione": dati.get("text"),
+            "like": dati.get("diggCount"),
+            "commenti": dati.get("commentCount"),
+            "condivisioni": dati.get("shareCount"),
+            "visualizzazioni": dati.get("playCount"),
+            "url": dati.get("webVideoUrl"),
+        })
 
     return video_trovati
 
@@ -60,17 +60,17 @@ def salva_csv(video, percorso_file):
         scrittore.writerows(video)
 
 
-async def main():
+def main():
     # avvia lo scraping di un hashtag e salva i risultati in csv
     # non restituisce nulla
-    hashtag = "python"
+    hashtag = "mafia"
     percorso_file = "risultati_tiktok.csv"
 
-    video = await ottieni_video_hashtag(hashtag, numero_video=30)
+    video = ottieni_video_hashtag(hashtag, numero_video=2)
     salva_csv(video, percorso_file)
 
     print(f"salvati {len(video)} video in {percorso_file}")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
