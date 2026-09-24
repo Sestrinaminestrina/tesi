@@ -5,3 +5,4 @@ venv/
 *.egg-info/
 .env
 risultati_tiktok.csv
+risultati_commenti.csv
