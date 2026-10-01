@@ -102,8 +102,8 @@ def main():
     # le due tabelle vengono sempre rigenerate insieme, cosi restano coerenti tra loro
     # non restituisce nulla
     hashtag = "mafia"
-    percorso_video = "risultati_tiktok.csv"
-    percorso_commenti = "risultati_commenti.csv"
+    percorso_video = "risultati_tiktok_contenuti.csv"
+    percorso_commenti = "risultati_tiktok_commenti.csv"
 
     video = ottieni_video_hashtag(hashtag, numero_video=3)
     salva_csv(video, percorso_video)
