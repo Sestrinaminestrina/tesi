@@ -1,0 +1,59 @@
+L'Osservatorio sui beni confiscati alla criminalità organizzata in Toscana è realizzato dal Centro di documentazione "Cultura della Legalità Democratica" della Regione Toscana ed è finalizzato alla pubblicizzazione della documentazione disponibile sui beni confiscati alla criminalità organizzata.
+L'Osservatorio si basa sui dati forniti dall'Agenzia Nazionale per l'Amministrazione e la Destinazione dei Beni Sequestrati e Confiscati alla Criminalità Organizzata (ANBSC), pubblicati nella pagina “Piattaforma Unica Destinazioni”, di libero accesso.
+Nella pagina "beni in amministrazione / destinati" sono presenti tutte le informazioni sull’ubicazione geografica e le caratteristiche degli immobili e aziende.
+Tipologia e numero dei beni censiti da ANBSC in Toscana
+Immobili destinati 281
+Aziende destinate 27
+Immobili in gestione 309
+Aziende in gestione 85
+Totale 702
+Fonte dei dati: ANBSC
+Aggiornamento: 31 agosto 2026
+Avvertenza:
+- Le informazioni dei procedimenti di confisca non sono registrate da ANBSC in tempo reale. Per questo il numero dei beni presentato potrebbe essere differente da quello effettivo.
+- ANBSC censisce fra i beni "in gestione" anche quelli non confiscati in via definitiva. Queste confische potrebbero anche essere revocate in futuro.
+- In considerazione delle attività di re-ingegnerizzazione del processo di destinazione e contestuale rinnovo della piattaforma infoweb dell'Agenzia nazionale, al momento i dati relativi alle destinazioni dei beni potrebbero essere sottostimati.
+Report di sintesi sui beni - 31 marzo 2026 [file.pdf 93KB]
+Elaborazione dei dati ufficiali prodotti da ANBSC
+Il Report offre un’analisi dettagliata sulla situazione dei beni confiscati alla criminalità organizzata in Toscana.
+I dati forniti da ANBSC sono suddivisi per provincia e per tipologia (immobili e aziende), con indicazione dello stato del procedimento giudiziario e della destinazione finale dei beni: trasferiti a enti pubblici, liquidati, mantenuti al patrimonio statale o altro.
+Il documento include anche una panoramica sulla distribuzione geografica, il numero di comuni coinvolti e un confronto con i dati nazionali.
+La mappa interattiva disponibile sul Geoportale della Regione Toscana mostra la distribuzione territoriale dei beni censiti da ANBSC e per ciascun comune è possibile consultare il numero e la tipologia, ottenendo così una panoramica visiva del fenomeno su scala regionale.
+La rappresentazione dei dati sui beni sequestrati e confiscati alla criminalità organizzata è allineata con il sistema regionale del Geoportale GEOscopio, lo strumento webgis con cui è possibile visualizzare, interrogare e scaricare i dati territoriali della Regione.
+I dati esposti fanno parte della Base Informativa Territoriale disciplinata dalla legge regionale 65/2014.
+Mappa della Regione Toscana con i beni sequestrati e confiscati alla criminalità organizzata
+Procedure di destinazione agli enti locali
+Tutte le informazioni necessarie agli enti locali per il riutilizzo e la valorizzazione dei beni sequestrati e confiscati sono consultabili nel Vademecum prodotto dalla Commissione Antimafia.
+Vademecum per gli enti locali
+Per informazioni
+DIREZIONE GENERALE BENI MOBILI E IMMOBILI SEQUESTRATI E CONFISCATI
+Tel. 06.68410035-29
+– Ufficio Nazionale beni mobili e immobili sequestrati e confiscati
+Tel. 06.68410034
+– Ufficio Immobili sequestrati e confiscati Italia Centrale
+Competenze Territoriali:
+Emilia Romagna, Toscana, Umbria, Marche, Lazio, Sardegna
+Tel. 06.68410023-89-86
+mail: segreteria.italiacentrale@anbsc.it
+PEC: agenzia.nazionale@pec.anbsc.it
+web: benisequestraticonfiscati.it
+beniconfiscati@regione.toscana.it
+Approfondimenti
+- Relazioni annuali dell'ANBSC
+- Relazioni annuali Ministero della Giustizia
+- Documentazione sui beni confiscati (a cura di Avviso Pubblico)
+- Documentazione su criminalità e mafie (a cura del CCLD)
+Altri siti georeferenziati
+- Regione Emilia Romagna
+- Geoblog di Libera Campania
+- Geo Blog Beni Confiscati di Bergamo e provincia
+- Mappatura dei Beni Confiscati destinati al Comune di Napoli
+- Scopri il bene! – Mappa interattiva dei beni confiscati in Lombardia
+Documentazione
+- Infiltrazioni mafiose in aree non tradizionali: attività e beni confiscati in Toscana - Tesi di laurea di Elisa Bolognini
+- I beni confiscati alla criminalità organizzata: aspetti giuridici e sociologici - Tesi di laurea di Pasquale Tancredi
+Altre iniziative
+- Incontro pubblico "I beni confiscati in Toscana" - Firenze 28 novembre 2022
+- Contributi regionali agli enti locali sui beni confiscati
+- Campi di lavoro, studio e animazione nelle terre confiscate
+- Alternanza scuola-lavoro presso il Centro CLD sui Beni confiscati alla criminalità organizzata in Toscana - A.s. 2014-2015

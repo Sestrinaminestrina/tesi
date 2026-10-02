@@ -1,0 +1,88 @@
+di Martino Dallasta — 27 maggio 2026 — 8 minuti di lettura
+"Martino, ma davvero TikTok? Io ho 49 anni e parlo di pianificazione patrimoniale. Vuoi che balli?"
+È la domanda che mi sono sentito fare almeno 20 volte negli ultimi 6 mesi. La risposta breve è: no, non devi ballare. La risposta lunga è quello che leggerai nei prossimi 8 minuti.
+TikTok nel 2026 non è più "la piattaforma dei sedicenni". L'audience italiana del cluster #finanza è cresciuta in modo netto: oggi il 48% di chi guarda contenuti finanziari su TikTok ha 25-44 anni. Imprenditori giovani, professionisti, top performer di settore: persone con redditi importanti che cercano educazione finanziaria fuori dal canale tradizionale (banca + cugino contabile).
+Per un CF italiano TikTok oggi è un canale dove pochissimi colleghi sono presenti, dove il single-video può fare 100k visualizzazioni anche partendo da zero, e dove l'algoritmo premia chi parla con sostanza. Il problema vero non è "TikTok funziona o no": è "come ci stai dentro senza farti segnalare e senza fare i finanztoker da quattro soldi". Te lo spiego sotto, con i numeri dei CF nel programma.
+Perché TikTok ora, e perché un CF
+Tre motivi tecnici, tre motivi strategici. Vado dritto.
+Tecnici
+- Algoritmo a discovery: TikTok mostra il tuo video a persone che non ti seguono. Su Instagram il 60% delle viste arriva dai tuoi follower; su TikTok il 75-90% arriva da gente nuova. Per un CF che parte da zero, è la differenza fra essere visibile o no.
+- Reach organico ancora alto: il tasso medio di reach su TikTok in Italia è 17%, contro il 4% di Instagram (dati 2025-2026). Pubblichi e ti vedono.
+- Tempo medio di consumo per utente: 95 minuti/giorno (italiano medio TikTok). Significa che chi è dentro, è dentro tanto.
+Strategici
+- Concorrenza CF bassa: pochi CF italiani sono attivi seriamente. Uno spazio, in pratica, vergine.
+- Audience giovane benestante: imprenditori 28-45, professionisti, manager. Un bacino premium che non trovi su Facebook (vecchio) e che su Instagram costa di più da raggiungere.
+- Effetto compound con altri canali: i video TikTok si ricilano su Instagram Reels, YouTube Shorts, LinkedIn. Un video, 4 piattaforme. Vedi anche YouTube per CF.
+Compliance prima di tutto: cosa puoi e cosa non puoi pubblicare
+Questo è il paragrafo che NESSUNA agenzia generalista ti scriverà. Perché non conoscono il quadro normativo specifico del CF italiano.
+Tu come CF iscritto OCF e operante sotto Consob/MiFID puoi pubblicare contenuti educational e informativi. Puoi spiegare cosa è un fondo comune, come funziona il TFR, cosa è la diversificazione, perché esistono i diversi profili di rischio. Tutto questo è formazione, ed è perfettamente conforme.
+Quello che non puoi mai fare è:
+- Dare raccomandazioni di investimento ("compra Tesla", "vendi BTP"). È consulenza personalizzata e su un canale pubblico è una violazione netta.
+- Promettere rendimenti ("guadagnerai il 7% l'anno"). Vietato dalla normativa Consob.
+- Mostrare il tuo portafoglio clienti, anche anonimizzato in modo riconoscibile.
+- Sponsorizzare prodotti specifici (Etf X, polizza Y) in modo che sembrino raccomandazioni.
+- Parlare male di colleghi o reti per nome (può portare a denunce per concorrenza sleale).
+Disclaimer obbligatorio in bio profilo + nei video sensibili: "I contenuti hanno scopo educativo e non costituiscono consulenza finanziaria personalizzata."
+Se segui queste 5 regole, sei in zona safe. Se non le segui, rischi di trovarti una segnalazione OCF nel cassetto entro 6 mesi. Un caso che ho seguito personalmente nel 2024.
+I 5 format che funzionano sui CF italiani
+Sui 60+ CF nostri che hanno provato TikTok seriamente, sono emersi 5 format che producono il 90% dei risultati. Te li elenco con esempi.
+1. "Mi è successo questo, ti spiego cosa avrei fatto"
+Apri raccontando un caso reale anonimizzato. Esempio: "Una settimana fa una cliente è venuta in studio con 850k€ ereditati e nessuno che le aveva spiegato cosa fare. In 60 secondi ti dico cosa NON deve fare." Funziona perché è storytelling + utilità + verticalizzazione.
+2. "I 3 errori che vedo ogni settimana"
+Liste corte di errori specifici (mai generici tipo "non investire troppo"). Esempio: "Tre cose che vedo sbagliate ogni settimana sul TFR delle PMI." Format che TikTok premia perché ha hook forte e ritmo.
+3. "Spiega come a tua sorella di 20 anni"
+Concetto tecnico, semplificato. "Cos'è un Etf in 45 secondi spiegato a chi non sa nulla." Funziona benissimo perché TikTok valorizza chi sa rendere semplice il complicato.
+4. Reaction a notizie di mercato
+Le notizie macro (BCE, mercati, news fiscali) sono trigger automatici per TikTok. "È uscita la riforma X. Per chi guadagna sopra 80k l'anno significa Y." Tempistica chiave: pubblica entro 24-48 ore dalla notizia.
+5. "Dietro le quinte del lavoro"
+Pezzi della tua giornata reale (con i clienti anonimizzati). "Lunedì mattina in studio: 3 cose che ho discusso con i clienti questa settimana." Costruisce credibilità senza fare il "guru".
+Mai fare lip-sync, mai fare balletti, mai fare "POV: tu sei il CF che..." in stile cringe. Stai parlando a clienti potenziali che muovono 200k+. Devi essere autorevole, non viral-by-any-means.
+Setup tecnico minimo (non ti serve uno studio)
+Risparmia il "voglio aspettare di avere lo studio". Il setup minimo che funziona:
+- iPhone (qualunque modello dal 12 in su) o Android equivalente;
+- microfono lavalier 30€ (Boya BY-M1 va benissimo);
+- un treppiedi 25€;
+- luce: la finestra di casa, durante il giorno. Mai luce gialla soffitto, mai backlit;
+- app: TikTok nativo (non hai bisogno di altro).
+Totale: 55€. Tre minuti di setup. Si gira in giacca, in studio o seduto in cucina (alle 7 del mattino, con la luce della finestra: i video migliori dei nostri CF sono fatti così).
+Frequenza, posting time, hashtag
+Numeri pratici dai test sui nostri CF:
+- Frequenza ottimale: 4-6 video/settimana. Sotto 3, l'algoritmo non ti spinge. Sopra 7, cala la qualità per saturazione.
+- Posting time: in Italia funzionano molto bene 7:30 (commute mattina), 13:00 (pausa pranzo), 19:30-21:00 (sera). Varia per tuo target.
+- Hashtag: 4-6 hashtag per video. Mix di 1-2 broad (#finanza, #consulentefinanziario), 2-3 mid (#educazionefinanziaria, #investimenti), 1 brand-specifico (#nomeazienda). Evita hashtag generici tipo #fyp che non spostano nulla.
+- Lunghezza video: 45-90 secondi è il sweet spot. Sotto 30, troppo poco. Sopra 120, drop-off.
+Caso reale: Andrea, da 0 a 28k follower in 7 mesi
+Andrea è un CF di Milano, 36 anni, target professionisti tecnologici (manager fra 30 e 45). Ha iniziato TikTok a settembre 2025 da zero.
+- Mese 1: 12 video pubblicati. Best video: 18k views. 220 follower.
+- Mese 3: video virale ("3 cose che fa il tuo gestore di banca che ti costano 5.000€/anno"): 480k views. Salita a 8.200 follower.
+- Mese 5: 22.000 follower. Primi 3 prospect contattano direttamente in DM.
+- Mese 7: 28.500 follower. 5 nuovi clienti chiusi nei 30 giorni precedenti, di cui 2 erano partiti da TikTok (DM → call → cliente). Gestito mosso 7,8M€.
+Andrea non ha fatto un euro di adv. Solo 5 video/settimana di buon livello, senza balletti, sempre verticali sul suo target. È diventato un piccolo riferimento per i manager-tech di Milano.
+Errori da non commettere
+1. Fare contenuti "per il general"
+"Voglio parlare a tutti." TikTok premia la verticalizzazione. Più stretto è il target, più virale il contenuto.
+2. Sentirsi "sotto" perché sei un CF
+L'autoinibizione del CF medio italiano sui social è un disastro. Tu hai contenuti che la gente paga 200€/ora per sentire. Stai semplicemente diluendoli su un canale dove la gente li può consumare gratis e poi (alcuni) prenotare una call.
+3. Non avere una CTA in bio
+Il bio profilo deve avere link diretto a: lead magnet (e-book), Calendly per call, oppure landing page. Senza, tutta la viralità non si traduce in business.
+4. Mollarci dopo 2 mesi
+I nostri dati dicono che la curva si piega dal mese 4 al 6. Chi molla al mese 2 perde tutto il lavoro fatto.
+5. Ignorare i commenti
+Rispondi a tutti i commenti pertinenti nelle prime 2 ore. L'algoritmo lo registra come "engagement alto" e ti spinge ulteriormente.
+FAQ — TikTok per CF
+È legale fare TikTok da CF italiano?
+Sì, contenuti educational sono OK. Vietate raccomandazioni personalizzate, promesse rendimenti, prodotti specifici "da comprare".
+Quale età ha il pubblico finanza?
+48% ha 25-44 anni in Italia. Sempre più cresciuto.
+Quanto durano i video che convertono?
+45-90 secondi sweet spot.
+Quanti follower servono?
+Zero. Conta il singolo video virale.
+Si possono fare adv?
+Sì, con policy Financial Services TikTok Ads. CPL 4-9€.
+Cosa non pubblicare?
+Mai raccomandazioni, screenshot portafoglio clienti, promesse rendimenti, bashing reti.
+Pronto a entrare su TikTok da CF — senza fare cringe?
+Se vuoi capire se TikTok è il canale giusto per il tuo target e quale format ti si addice, prenota una analisi gratuita di 30 minuti. Decidiamo insieme se ha senso aprirti questo canale o se per il tuo caso ci sono leve migliori (es. LinkedIn o Instagram).
+Oppure scarica gratis il nostro e-book "Personal Brand del Consulente Finanziario": 84 pagine sul costruire il tuo brand digitale come CF.
+Disclaimer: i contenuti hanno scopo informativo e non costituiscono consulenza personalizzata. Le campagne marketing devono rispettare la normativa di riferimento del consulente (MiFID II, Consob, OCF).

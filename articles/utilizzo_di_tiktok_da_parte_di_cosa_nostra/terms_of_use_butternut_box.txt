@@ -1,0 +1,36 @@
+Questa informativa sui cookie ti spiega come e perché noi (Butternut Box (Italy) Srl) utilizziamo i cookie e tecnologie simili per riconoscerti quando visiti il nostro sito web o utilizzi la nostra app. Spiega cosa sono queste tecnologie e perché le utilizziamo, nonché i tuoi diritti di controllarne l'uso da parte nostra.
+Un cookie è un piccolo file di testo che viene scaricato sul tuo dispositivo (come computer o smartphone) quando visiti un sito web. Consente al sito web di riconoscere il tuo dispositivo e di memorizzare alcune informazioni sulle tue preferenze o azioni passate.
+Utilizziamo i cookie per diversi motivi. Alcuni cookie sono necessari per motivi tecnici affinché il nostro sito web e la nostra app funzionino correttamente. Altri cookie ci consentono di tracciare e indirizzare gli interessi dei nostri utenti per migliorare l'esperienza sul nostro sito. Terze parti servono cookie attraverso il nostro sito web per scopi pubblicitari, analitici e altri scopi.
+Questi cookie sono essenziali per fornirti i servizi disponibili attraverso il nostro sito web e per utilizzare alcune delle sue funzionalità, come l'accesso alle aree protette. Poiché questi cookie sono strettamente necessari per fornire il sito web, non è possibile rifiutarli senza influire sul funzionamento del nostro sito. Puoi bloccarli o eliminarli modificando le impostazioni del tuo browser.
+Nome del Cookie | Fornitore | Dominio | Tipo | Scadenza | Parte (Party) | Scopo / Descrizione |
+__cf_bm | Cloudflare | https://www.google.com/search?q=.butternutbox.com | HTTP | 30 minuti | Terza parte | Utilizzato per distinguere tra esseri umani e bot. |
+JSESSIONID | New Relic | nr-data.net | HTTP | Sessione | Terza parte | Utilizzato per memorizzare un identificatore di sessione per monitorare le prestazioni dell'applicazione. |
+butternut_session | Butternut Box | https://www.google.com/search?q=.butternutbox.com | HTTP | 2 ore | Prima parte | Utilizzato per mantenere lo stato della sessione dell'utente attraverso le richieste di pagina. |
+XSRF-TOKEN | Butternut Box | https://www.google.com/search?q=.butternutbox.com | HTTP | 2 ore | Prima parte | Utilizzato per prevenire attacchi CSRF (Cross-Site Request Forgery). |
+Questi cookie raccolgono informazioni che vengono utilizzate in forma aggregata per aiutarci a capire come viene utilizzato il nostro sito web o quanto sono efficaci le nostre campagne di marketing, oppure per aiutarci a personalizzare il nostro sito web per te.
+Nome del Cookie | Fornitore | Dominio | Tipo | Scadenza | Parte (Party) | Scopo / Descrizione |
+_ga | Google Analytics | https://www.google.com/search?q=.butternutbox.com | HTTP | 2 anni | Prima parte | Utilizzato per distinguere gli utenti unici assegnando un numero generato casualmente. |
+_gid | Google Analytics | https://www.google.com/search?q=.butternutbox.com | HTTP | 24 ore | Prima parte | Utilizzato per distinguere gli utenti. |
+_gat | Google Analytics | https://www.google.com/search?q=.butternutbox.com | HTTP | 1 minuto | Prima parte | Utilizzato per limitare la frequenza delle richieste. |
+ajs_anonymous_id | Segment | https://www.google.com/search?q=.butternutbox.com | HTML | 1 anno | Prima parte | Utilizzato per l'analisi e per contare i visitatori del sito. |
+ajs_user_id | Segment | https://www.google.com/search?q=.butternutbox.com | HTML | 1 anno | Prima parte | Utilizzato per l'analisi e per tracciare l'utilizzo dell'utente. |
+Questi cookie vengono utilizzati per migliorare le prestazioni e la funzionalità del nostro sito web, ma non sono essenziali per il suo utilizzo. Tuttavia, senza questi cookie, alcune funzionalità (come i video) potrebbero non essere disponibili.
+Nome del Cookie | Fornitore | Dominio | Tipo | Scadenza | Parte (Party) | Scopo / Descrizione |
+intercom-id-[id] | Intercom | https://www.google.com/search?q=.butternutbox.com | HTTP | 9 mesi | Prima parte | Utilizzato per identificare i visitatori nelle sessioni di chat. |
+intercom-session-[id] | Intercom | https://www.google.com/search?q=.butternutbox.com | HTTP | 1 settimana | Prima parte | Utilizzato per mantenere le sessioni di chat degli utenti attive. |
+boom_user | Boomerang | https://www.google.com/search?q=.butternutbox.com | HTTP | 1 anno | Prima parte | Utilizzato per ricordare le preferenze dell'utente relative al servizio clienti. |
+video_pref | Vimeo/YouTube | player.vimeo.com | HTTP | 1 anno | Terza parte | Memorizza le preferenze dell'utente per il lettore video incorporato. |
+Questi cookie vengono utilizzati per rendere i messaggi pubblicitari più pertinenti per te. Svolgono funzioni come impedire che lo stesso annuncio ricpaia continuamente, garantire che gli annunci vengano visualizzati correttamente per gli inserzionisti e, in alcuni casi, selezionare annunci basati sui tuoi interessi.
+Nome del Cookie | Fornitore | Dominio | Tipo | Scadenza | Parte (Party) | Scopo / Descrizione |
+_fbp | https://www.google.com/search?q=.facebook.com | HTTP | 3 mesi | Terza parte | Utilizzato da Facebook per fornire prodotti pubblicitari come le offerte in tempo reale. | |
+fr | https://www.google.com/search?q=.facebook.com | HTTP | 3 mesi | Terza parte | Utilizzato da Facebook per fornire, misurare e migliorare la pertinenza degli annunci. | |
+test_cookie | DoubleClick | .doubleclick.net | HTTP | 15 minuti | Terza parte | Utilizzato per verificare se il browser dell'utente supporta i cookie. |
+IDE | DoubleClick | .doubleclick.net | HTTP | 1 anno | Terza parte | Utilizzato per registrare e segnalare le azioni dell'utente dopo aver visualizzato un annuncio. |
+tt_webid | TikTok | https://www.google.com/search?q=.tiktok.com | HTTP | 1 anno | Terza parte | Utilizzato per tracciare le azioni dei visitatori provenienti da annunci TikTok. |
+Hai il diritto di decidere se accettare o rifiutare i cookie. Puoi impostare o modificare i controlli del tuo browser web per accettare o rifiutare i cookie. Se scegli di rifiutare i cookie, puoi comunque utilizzare il nostro sito web, anche se l'accesso ad alcune funzionalità e aree del nostro sito web potrebbe essere limitato.
+Inoltre, la maggior parte delle reti pubblicitarie offre un modo per opporsi alla pubblicità mirata. Se desideri saperne di più, visita http://www.aboutads.info/choices/ o http://www.youronlinechoices.com.
+Potremmo aggiornare questa informativa sui cookie di volta in volta per riflettere, ad esempio, le modifiche ai cookie che utilizziamo o per altri motivi operativi, legali o normativi. Ti preghiamo quindi di visitare regolarmente questa pagina per rimanere informato sul nostro utilizzo dei cookie e delle tecnologie correlate.
+La data in calce a questa informativa indica l'ultimo aggiornamento.
+Ultimo aggiornamento: Giugno 2025.
+Se ami i cani e gli sconti, adorerai la nostra newsletter.
+©2026 Butternut Box

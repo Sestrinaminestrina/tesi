@@ -1,0 +1,47 @@
+Argomenti
+Cos'è la frode con carta di credito?
+La frode con carta di credito è un'operazione illecita attuata da un truffatore per sottrarre denaro dal conto del cliente. Essa consiste, ad esempio, nel rubare i dati della carta per poi utilizzarli in modo fraudolento per effettuare acquisti o prelievi di contanti o per rivenderli. I truffatori possono accedere ai dati in vari modi:
+- phishing: truffa eseguita per mezzo di e-mail, siti web o ultimamente anche codici QR contraffatti con tanto di logo aziendale. Un clic sul link contenuto nel messaggio è sufficiente per consentire al truffatore di accedere a dati sensibili e appropriarsi dei dati della carta di credito;
+- skimming: consiste nella manomissione di uno sportello bancomat o di un terminale per i pagamenti al fine di leggere e copiare i dati contenuti nella banda magnetica delle carte di credito;
+- clonazione della carta: i dati rubati vengono utilizzati da un malintenzionato per creare una copia della carta di credito ed effettuare transazioni non autorizzate;
+- carding: la frode consiste nel testare i dati della carta di credito rubati per addebitare in un primo momento piccoli importi e successivamente somme ingenti;
+- perdita o furto della carta fisica: il malintenzionato di turno effettua pagamenti finché il titolare della carta non ne chiede il blocco.
+Come si riconosce una frode con carta di credito?
+Le truffe ai danni delle carte di credito sono sempre più subdole e spesso le vittime non si accorgono di nulla o si rendono conto del danno quando ormai è troppo tardi. Per questo è importante essere sempre attenti. Ecco alcuni elementi che possono indicare una frode con carta di credito:
+- transazioni insolite: fate attenzione a eventuali addebiti insoliti di piccoli importi. I truffatori tendono a testare le carte rubate sottraendo piccole somme prima di prelevare importi maggiori (carding). Può trattarsi, ad esempio, di un addebito di pochi franchi per un acquisto mai effettuato;
+- addebiti sconosciuti: la presenza sull'estratto conto della carta di credito di addebiti per pagamenti che non avete mai fatto potrebbe essere indice di un uso fraudolento della carta. È quindi opportuno controllare regolarmente gli estratti conto e segnalare immediatamente alla banca qualsiasi attività sospetta;
+- comunicazioni insolite: la truffa consiste spesso nell'invio di e-mail, SMS o codici QR falsificati, con tanto di logo e nome dell'emittente della carta di credito, che contengono un link per la conferma di dati o la verifica di una transazione. Per prima cosa, controllate sempre gli addebiti sul conto. Se ricevete un messaggio di questo tipo ma non avete effettuato nessuna transazione insolita, si tratta sicuramente di una truffa;
+- tentativi di phishing: se ricevete un'e-mail o un SMS con errori di ortografia o da mittenti sospetti che vi chiedono i dati della carta, probabilmente si tratta di un tentativo di phishing. Non cliccate su nessun link e cancellate immediatamente il messaggio.
+Cosa devo fare se scopro una truffa ai danni della mia carta di credito?
+Se si sospetta una frode sulla carta di credito, è importante reagire rapidamente. Ecco cosa fare.
+- Bloccare la carta di credito: bloccare immediatamente la carta tramite l'app dell'emittente o chiamando il servizio clienti per evitare ulteriori transazioni non autorizzate.
+- Segnalare il sospetto di frode: comunicare il sospetto alla banca o all'emittente della carta di credito. A questo scopo, la maggior parte delle banche mette a disposizione una hotline attiva 24 ore su 24, 7 giorni su 7.
+- Documentare il caso: annotare tutte le informazioni importanti, come data e ora delle transazioni non autorizzate e del blocco della carta. Questi dati saranno utili per ricostruire l'accaduto.
+- Sporgere denuncia: presentare una denuncia all'ufficio di polizia del posto per segnalare ufficialmente il caso. Questo è spesso un presupposto necessario per far valere i propri diritti presso la banca.
+- Contestare le transazioni: inviare un reclamo scritto all'emittente della carta di credito. Molte banche mettono a disposizione moduli online utilizzabili per segnalare eventuali transazioni non autorizzate.
+- Monitorare il conto: controllare gli estratti conto della carta di credito per assicurarsi che non ci siano altre transazioni sospette.
+Chi è responsabile in caso di frode con carta di credito?
+Il conto è stato saccheggiato: ne risponde la banca? Non sempre, purtroppo. In Svizzera, la responsabilità per le frodi con carta di credito dipende da diversi fattori e deve essere valutata caso per caso.
+In linea di principio, ne risponde la banca se il titolare della carta di credito non ha violato gli obblighi di diligenza che gli competono tra cui l'utilizzo attento della carta, la conservazione sicura del PIN e la segnalazione immediata dell'eventuale smarrimento o di un sospetto di frode. La banca, tuttavia, può prevedere una limitazione della propria responsabilità anche nelle condizioni generali.
+Se non è possibile dimostrare errori da parte del titolare della carta, la banca deve farsi carico del danno e rimborsare l'importo. Se l'utente, però, ha agito con negligenza – ad esempio comunicando il proprio PIN a terzi o utilizzando servizi online non sicuri – sarà lui a doversi fare carico, del tutto o in parte, del danno.
+Quindi, se vi accorgete di una frode ai danni della vostra carta di credito, fate bloccare subito la carta, segnalate il caso alla banca e sporgete denuncia alla polizia. Molte banche offrono un servizio di storno, una procedura che consente di richiedere l'annullamento di eventuali addebiti non autorizzati.
+Cosa posso fare per proteggermi dal rischio di una frode con carta di credito?
+Una truffa ai danni della carta di credito può capitare a chiunque. Tuttavia, esistono alcuni accorgimenti per prevenire questo rischio.
+- Controllare regolarmente gli estratti conto: verificare regolarmente gli estratti conto della carta di credito confrontando le transazioni con le ricevute in modo da riconoscere quanto prima eventuali addebiti sospetti e intervenire immediatamente;
+- Proteggere il PIN e i dati della carta: tenere segreto il codice PIN e non conservarlo mai insieme alla carta. Non condividere mai i dati della carta con terzi per e-mail o telefono.
+- Utilizzare le procedure di sicurezza: attivare funzioni di sicurezza come 3-D Secure (ad esempio Mastercard SecureCode o Verified by Visa) per effettuare un'ulteriore autenticazione durante gli acquisti online.
+- Evitare le reti WLAN pubbliche: non utilizzare reti WLAN pubbliche non protette per fare acquisti online o accedere ai conti bancari. Se necessario, utilizzare una connessione VPN per criptare i dati.
+- Utilizzare password sicure: creare password forti e dedicate per le attività di online banking e per i conti e-commerce. Evitare password troppo semplici e modificarle periodicamente.
+- Definire un limite di spesa: stabilire un limite massimo per gli importi che possono essere prelevati o pagati con la carta di credito, in modo da ridurre al minimo i possibili danni a seguito di una frode.
+- Proteggere la carta fisica: tenere sempre al sicuro la carta di credito, soprattutto quando si è in viaggio o in luoghi affollati. Non lasciare mai la carta incustodita, ad esempio nelle camere d'albergo o negli armadietti pubblici.
+- Mantenere aggiornati software e dispositivi: assicurarsi che i dispositivi e le applicazioni utilizzati per operazioni bancarie e acquisti online siano sempre aggiornati. Gli aggiornamenti di sicurezza spesso eliminano le vulnerabilità note.
+È possibile assicurarsi contro il rischio di frode con carta di credito?
+Segment manager senior clientela privata
+Häufige Fragen und Antworten
+Su Internet le frodi con le carte di credito avvengono solitamente tramite phishing o fughe di dati. Nel caso del phishing, i truffatori inviano e-mail falsificate o creano siti web fasulli molto simili a quelli autentici di banche o negozi online con l'obiettivo di carpire i dati della carta di credito agli ignari utenti, dati che saranno poi utilizzati per effettuare transazioni illegali.
+Un altro metodo è il furto di dati tramite attacchi hacker: la truffa consiste nel violare i database di siti web non sicuri sui quali sono memorizzati i dati di carte di credito. I dati trafugati vengono utilizzati direttamente o venduti sul dark web, dove vengono utilizzati da altri criminali per commettere frodi.
+I criminali che commettono frodi con carte di credito in Svizzera rischiano pene severe: a seconda della gravità del reato, è prevista una pena detentiva fino a cinque anni.
+Tale pena può salire a dieci anni per le frodi commerciali o messe in atto dalla criminalità organizzata. Per i casi meno gravi è prevista una pena pecuniaria.
+La troviamo con una consulenza individuale.
+Cibercriminalità
+Protezione online e acquisti

@@ -1,0 +1,257 @@
+Saluti, appassionati di Civ!
+L'Aggiornamento 1.1.1 è finalmente disponibile con tutte le sue migliorie e modifiche per Civilization VII! Questo aggiornamento include contenuti gratuiti e DLC a pagamento, oltre a tante nuove aggiunte gratuite basate sulle idee e i commenti della community.
+Come introduzione alle note di rilascio dell'Aggiornamento 1.1.1, troverete la sezione dedicata alle nuove funzionalità con una panoramica sui nuovi contenuti completa di commenti degli sviluppatori. Il resto delle note sarà interamente dedicato a ogni dettaglio su modifiche, bug risolti e nuovi contenuti per il gioco base e le varie DLC.
+L'aggiornamento 1.1.1 segna anche il rilascio completo della Collezione Crocevia del mondo, il pacchetto (acquistabile separatamente) che introduce due nuovi leader, quattro nuove civiltà e quattro nuove meraviglie naturali.
+Siamo già al lavoro per l'aggiornamento 1.2.0, che prevediamo di rilasciare durante il mese di aprile (scadenza soggetta a modifiche). Chi vuole un'anteprima delle prossime novità può consultare la nostra roadmap nell'articolo "Check-in sugli aggiornamenti" del 27 febbraio, che riporta tutti i nostri piani per migliorare l'interfaccia, l'aggiunta di un'opzione "Ancora un turno" per continuare a giocare anche dopo il raggiungimento di una condizione di vittoria e molto altro.
+I prossimi mesi saranno molto intensi e potete aspettarvi molte, moltissime novità! Siamo solo all'inizio della nostra avventura con Civilization VII e, come sempre, non possiamo non ringraziarvi per il vostro supporto e la vostra pazienza mentre lavoriamo per affinare il mondo che Civ VII ha da offrire. Come sempre, siamo attenti ai commenti della nostra community, quindi continuate a condividere i vostri pensieri nelle Discussioni della comunità di Steam o sul Server Discord ufficiale di Civilization.
+Movimento rapido
+Ritorna il movimento rapido! Questa impostazione facoltativa permette di disabilitare le animazioni di movimento delle unità rendendo più veloce lo svolgimento delle partite. Come impostazione predefinita, l'opzione è disabilitata e può essere attivata dalle impostazioni del gioco.
+Generazione della mappa
+Parte integrante dei nostri sforzi per rendere le mappe di Civ VII ancora più variegate e speciali, abbiamo aggiunto una posizione di partenza predefinita chiamata Standard. Questa opzione genera inizi di partita più simili a quelli di Civilization VI, con continenti più complessi e meno prevedibili.
+L'opzione di partenza precedente è stata rinominata Bilanciata e può essere scelta dalle Opzioni avanzate. L'opzione Bilanciata rimane quella predefinita per le partite multigiocatore. Per quanto riguarda il numero di mappe, la loro varietà e il sistema di generazione in generale, abbiamo già programmato molte novità (tra cui mappe più grandi!), quindi continuate a seguirci e a dirci la vostra.
+Insediamenti e Comandanti: ora rinominabili
+La vostra creatività non conosce limiti, quindi perché impedirvi di cambiare il nome di Insediamenti e Comandanti? Ora è possibile rinominarli facendo clic sull'icona a forma di penna nel loro menu in alto a destra. È la funzionalità extra perfetta per tutti: dagli amanti degli imperi storici a chi preferisce usare i nomi dei propri amici, passando per gli amanti dell'efficienza a cui piace usare come nomi stati ed effetti!
+Miglioramenti all'interfaccia
+Abbiamo dato una rinfrescata all'interfaccia. L'Aggiornamento 1.1.1 segna il primo passo verso un'ottimizzazione funzionale ed estetica delle interfacce. Tra le novità, spiccano:
+Migliore visibilità di stendardi e barre di salute delle unità
+Abbiamo reso gli stati di salute ancora più facili da leggere inserendoli anche nel pannello delle unità! La salute degli insediamenti ora è in primo piano, in bella vista rispetto al resto degli edifici.
+Migliorati i pannelli informativi delle caselle
+Abbiamo migliorato i pannelli informativi delle caselle, che ora riportano anche il numero di specialisti assegnati e ancora assegnabili.
+Nuova notifica "Distretto sotto attacco"
+Una notifica di attacco ai distretti è stata aggiunta al sistema di avvisi: speriamo riduca il rischio di non notare cose del genere mentre si gestiscono i propri insediamenti.
+Nuova Lente Commercio e possibilità di inviare mercanti dalle Lenti
+Adesso è possibile controllare le proprie rotte commerciali disponibili attivando la relativa lente, che permette anche di inviare i mercanti direttamente alle città in tutte le epoche. N.B.: nelle prime epoche, le rotte commerciali devono essere comunque avviate la prima volta.
+Il Progresso nell'epoca ora riporta il numero di turni rimanenti prima delle Crisi
+Niente più crisi a sorpresa! Abbiamo aggiunto dei "cavalieri" al contatore dei turni che avvisano quando il Progresso nell'epoca è prossimo a una crisi o al loro aggravamento.
+Pulsante di riavvio
+Amanti del riavvio, riavviatevi! Abbiamo aggiunto un nuovo pulsante di riavvio utilizzabile durante i primi turni di ogni nuova partita che permette di ricominciare la mappa con le stesse impostazioni di gioco e la coppia civiltà/leader scelta. Nota: il riavvio non è disponibile in alcune situazioni, ad esempio se si è già arrivati alla fase di Passaggio di epoca o durante le partite multigiocatore online.
+Queste sono solo le novità in evidenza: di seguito trovate la lista completa dei miglioramenti al gioco e all'interfaccia. La strada è ancora lunga e l'interfaccia resterà un elemento prioritario nei prossimi aggiornamenti, insieme a leggibilità, accessibilità e facilità d'uso di tutte le funzionalità di Civ VII.
+Nuova meraviglia naturale: monte Everest
+Ultima novità, ma non per importanza, è l'aggiunta del monte Everest alla lista delle meraviglie naturali di Civ VII. Conosciuta anche con il nome di Sagarmatha in nepalese e Chomolungma in tibetano, questa montagna è da sempre considerata sacra dalle popolazioni locali. Il monte Everest fornisce vari bonus al giocatore abbastanza fortunato da reclamarlo entro i propri confini: +2 Felicità, +2 Influenza +2 Cultura e rivela anche tutte le montagne del continente in cui si trova quando viene scoperto.
+Nuove funzionalità
+- Modifiche al ritmo e al bilanciamento di gioco dell'epoca moderna
+- Abbiamo effettuato delle modifiche all'epoca moderna per allungarne la durata e dare ai giocatori più tempo per fare strategia e usare tutte le varie meccaniche dell'epoca.
+- Nell'epoca moderna, l'eliminazione di un giocatore non contribuisce più al progresso dell'epoca. Il progresso dell'epoca aggiunto dall'eliminazione di un giocatore nell'epoca delle esplorazioni è stato dimezzato per rendere le vittorie per dominio più semplici da ottenere.
+- Il costo delle tecnologie e dei progressi civici dell'epoca moderna è stato aumentato del 25% circa, con un aumento maggiore concentrato negli elementi più avanzati dei rispettivi alberi.
+- Abbiamo apportato varie modifiche al gameplay ferroviario e alla parte "Magnate delle ferrovie":
+- Fabbriche: costo aumentato da 600 a 1400.
+- Porto: costo aumentato da 550 a 1200.
+- Stazione ferroviaria: costo aumentato da 650 a 1200.
+- Carbone (risorsa): "bonus di produzione per le Stazioni ferroviarie del 100%" modificato in "bonus di produzione del 10% per Stazioni ferroviarie e Porti" (il bonus del 100% esistente non veniva applicato come previsto).
+- Petrolio (risorsa): adesso fornisce anche un bonus di produzione del 10% per le Fabbriche.
+- Il tuo Consigliere militare adesso ti avviserà se non hai abbastanza comandanti per mantenere tutte le tue unità al termina di un'epoca.
+- Il sistema di generazione della mappa è stato migliorato: adesso i giocatori possono scegliere tra due posizioni di partenza (Standard e Bilanciata) dal menu di configurazione avanzata.
+Leader e civiltà
+- Leader
+- Ashoka, Conquistatore del mondo:
+- Devaraja (abilità esclusiva): bonus al combattimento cambiato da "+10 contro i distretti fortificati durante le Celebrazioni" a "+5 contro i distretti fortificati durante le Celebrazioni".
+- Confucio:
+- Confucio ora sblocca correttamente l'accesso alla civiltà Qing nell'epoca moderna.
+- Lafayette:
+- Il bonus di +1 al combattimento per Tradizione adottata adesso non è più raddoppiato nelle Terre lontane.
+- Modifiche al seguente bonus: da "+2 Cultura e Felicità per epoca negli insediamenti, raddoppiato nelle Terre lontane" a "+1 Cultura e Felicità per epoca negli insediamenti, raddoppiato nelle Terre lontane".
+- Ashoka, Conquistatore del mondo:
+- Civiltà
+- Buganda:
+- Il progresso civico Nyanza di Buganda adesso si applica anche a edifici che occupano un'intera casella (es. Aerodromi).
+- [DLC Crocevia del mondo*] Cartagine:
+- Il bonus di combattimento di Cartagine per la cavalleria numida adesso applica solo +1 per risorsa cittadina assegnata nella Capitale.
+- Hawai'i:
+- Ahupua'a (Tradizione): modificata da "+4 Cultura dagli edifici che producono Cibo" a "+4 Cibo dagli edifici che producono Cultura".
+- Ho'okupu (Tradizione): modificata da "+2 Cultura sulle caselle di mare" a "+1 Cultura sulle caselle di mare".
+- He'e Nalu (Maestria civica): modificata da "+1 Cultura sulle caselle di mare negli insediamenti che seguono la tua religione" a "+1 Felicità sulle caselle di mare nei Paesi che seguono la tua religione. Bonus raddoppiato nelle città".
+- [Crocevia del mondo DLC*] Gran Bretagna:
+- Nessun alleato eterno (Tradizione): modificata da "+5% oro nei Paesi ma -5% oro nella Capitale per ogni alleanza" a "+10% Cibo e Oro nei Paesi, ma -5% oro nella Capitale per ogni alleanza".
+- Majapahit
+- Subak (Tradizione): modificata da "+1 Cultura e Produzione sulle caselle di mare" a "+1 Cultura e Produzione dalle caselle di mare nelle città".
+- Gamelan (progresso civico): modificato da "+4 Cultura dai quartieri" a "+2 Cultura nei quartieri".
+- Nusantara (progresso civico): modificato da "Gli edifici culturali ricevono +1 Cultura se vicini alla costa" a "Gli edifici culturali ricevono +1 alla Felicità se vicini alla costa".
+- Maya:
+- Uwaybil K'uh (quartiere): Produzione ottenuta dalla tecnologia ricercata modificata dal 15% al 5%.
+- K'uh Nah modificato da +4 Scienza a +3 Scienza.
+- La meraviglia Mundo Perdido adesso è sbloccata prima nell'albero Progressi Civici con il progresso civico "Giro del calendario".
+- Giappone Meiji:
+- Goishhin (abilità esclusiva): il bonus di Scienza quando si ammoderna ora viene applicato correttamente.
+- Kōkūtai (Tradizione): il bonus ora viene applicato correttamente a tutte le unità aeree.
+- Mississippiani:
+- La Tradizione Ceramica temperata dei Mississippiani adesso viene applicata correttamente anche dopo l'epoca antica.
+- Mongolia:
+- Baghatur (Tradizione): modificata da "+5 forza di combattimento per le unità di cavalleria" a "+3 forza di combattimento per le unità di cavalleria".
+- Roma:
+- Legionario (unità): modificata da "+2 forza di combattimento per ogni Tradizione nel Governo" a "+1 forza di combattimento per ogni Tradizione nel Governo".
+- Latinitas (Tradizione): modificata da "+10% Cibo, Oro e Cultura nei Paesi con una Specializzazione" a "+5% Cibo, Oro e Cultura nei Paesi senza un Focus di crescita".
+- Russia:
+- Generale Inverno (Tradizione): modificata da "+5 forza di combattimento per le unità nelle caselle di tundra" a "+3 forza di combattimento per le unità nelle caselle di tundra".
+- Songhai:
+- Hi-Koi (Progresso civico): rimosso il bonus applicato alle unità che non si trovano su un fiume navigabile.
+- Buganda:
+Gameplay
+- IA
+- Migliorato il comportamento dell'IA quando esplora e gestisce insediamenti.
+- I comandanti dell'IA adesso ottengono esperienza bonus correttamente in base alla difficoltà:
+- Scriba: -20%
+- Governatore: 0%
+- Viceré: 40%
+- Sovrano: 60%
+- Immortale: 80%
+- Divinità: 100%
+- Migliorata la capacità di scelta dell'IA per le promozioni per i comandanti, che ora dà la priorità a bonus più utili come l'aumento della forza di combattimento.
+- Economia
+- I Paesi con un focus Avamposto commerciale adesso forniscono +5 al raggio delle rotte commerciali a tutti gli insediamenti, non solo a loro stessi.
+- Nota degli sviluppatori: questo cambiamento facilita la costruzione di strade per collegare le città usando i mercanti quando si hanno pochi Avamposti commerciali.
+- Segheria: adesso il bonus ai Campi è applicato correttamente.
+- Droghiere: il bonus di Cibo non è più applicato a Miniere e Segherie.
+- Ferriera: risolto un problema segnalato che impediva la corretta applicazione dei bonus di produzione a Miniere e Segherie. Aggiunto +1 Produzione bonus sulle montagne
+- Le riparazioni non possono più essere acquistate se non si dispone dell'Oro necessario.
+- Gli sconti per l'acquisto di edifici a prezzo ridotto sono ora applicati correttamente.
+- Non è più possibile effettuare acquisti nei Paesi in rivolta.
+- Risolto un problema che causava il calcolo di valori negativi durante l'applicazione del cibo generato dalla risorsa Pesce per le istanze di crescita degli insediamenti.
+- La coda di produzione adesso si aggiorna correttamente quando si accodano più meraviglie e un'altra civiltà ne completa una per prima.
+- Gli edifici "Pozzi" forniti dalla meraviglia Birsa adesso sono assegnati correttamente su tutte le caselle idonee.
+- I Paesi con un focus Avamposto commerciale adesso forniscono +5 al raggio delle rotte commerciali a tutti gli insediamenti, non solo a loro stessi.
+- Diplomazia
+- L'azione di spionaggio "Sabotaggio programma spaziale" adesso viene completata correttamente.
+- Crisi
+- Le Crisi di rivoluzione adesso applicano il corretto ammontare di Infelicità dopo che i giocatori scelgono un nuovo governo rivoluzionario.
+- Unità militari
+- Terra bruciata (Politica): modificata da "+5 forza di combattimento per tutte le unità quando attaccano" a "+3 forza di combattimento per tutte le unità quando attaccano".
+- Purabhettarah (unità): il bonus +5 forza di combattimento contro i distretti fortificati adesso è applicato correttamente.
+- Scout (unità): il bonus di +1 al raggio visivo non è più accumulato quando si separa l'unità da un comandante con la promozione Iniziativa.
+- Meraviglie naturali
+- Torres del Paine: descrizione modificata da "Le unità che si spostano vicino a Torres Del Paine ignorano le penalità del terreno accidentato" a "+1 Cibo e Produzione sulle caselle di Tundra di questo insediamento".
+- Aumentate le probabilità di generare la meraviglia naturale Valle dei fiori.
+- Potenze indipendenti
+- Le unità navali non possono più eseguire l'azione "Disperdi potenza indipendente" sui villaggi se è presente un'unità a loro difesa.
+- Emporio e Monastero (miglioramenti esclusivi): adesso le Rese vengono accumulate correttamente se sono presenti più copie dello stesso miglioramento nella stessa Città.
+- Civilopedia
+- Aggiunte e aggiornate varie sezioni.
+- Problemi risolti:
+- Risolto un problema segnalato che si verificava tornando al menu principale troppo velocemente durante la creazione di una nuova partita.
+Interfaccia
+- Notifiche
+- Aggiunta la nuova notifica "Distretto sotto attacco".
+- I giocatori saranno avvisati correttamente quando un Comandante con esercito in transito viene attaccato
+- L'animazione delle notifiche adesso viene riprodotta correttamente all'inizio di un nuovo turno.
+- La velocità delle notifiche durante il gioco è stata aumentata.
+- Aggiunti avvisi e notifiche dei consiglieri aggiuntivi per assistere i giocatori quando vogliono creare Flotte del tesoro. I giocatori adesso saranno informati se non dispongono della tecnologia Costruzione navale o di una Banchina da pesca.
+- Modifiche al testo di gioco
+- Risolti vari problemi segnalati relativi a testi e formattazione.
+- Risolti alcuni problemi relativi a testi mancanti.
+- Allineamento e spaziatura
+- Migliorato l'allineamento e ordinamento dei messaggi del tutorial.
+- Migliorato l'allineamento dei pulsanti Riprendi e Riavvio nel menu di Pausa.
+- Il testo descrittivo dei livelli dei comandanti adesso è centrato quando si raggiunge una promozione a doppia cifra durante la partita.
+- Migliorata la spaziatura tra le icone e le bandiere delle unità e il numero che ne indica il livello del comandante.
+- Il pulsante di uscita nel menu principale non è più sovrapposto alle immagini del carosello.
+- Suggerimenti
+- Aggiunte informazioni sugli specialisti ai suggerimenti delle caselle.
+- Aggiunta un'icona Relazione Neutrale; migliorata la leggibilità dello stato delle Relazioni.
+- Il tipo di risorsa adesso è mostrato sia attraverso icone e messaggi, sulla mappa e nella schermata delle risorse.
+- Modifiche nelle interfacce con controller
+- Gli esiti delle missioni di spionaggio adesso sono visualizzati correttamente quando vengono aperti usando un controller.
+- I controller adesso funzionano correttamente dopo aver aperto il menu dei progressi nel menu "Scegli Civiltà".
+- La lente Commercio adesso ripristina l'impostazione "nessuna lente" quando viene chiusa dall'utente usando un controller.
+- Selezionare un'unità non provoca più la perdita di selezione dei bonus delle Città-stato quando si usa un controller.
+- I giocatori che usano un controller adesso possono selezionare una forma di governo correttamente quando aprono la schermata "Scegli forma di governo" dal pulsante di avanzamento, anche quando un'unità è selezionata.
+- Aggiornamenti generali
+- Insediamenti e comandanti adesso possono essere rinominati.
+- Aggiunta la lente Commercio che mostra le Rotte commerciali e le informazioni relative senza dover selezionare un'unità Mercante.
+- Adesso è possibile impostare le rotte dei Mercanti tra insediamenti direttamente dal pannello delle Rotte commerciali.
+- L'elenco delle azioni delle unità adesso si espande automaticamente per mostrare tutte le azioni disponibili.
+- Migliorata la visibilità della barra di salute di unità e distretti e delle bandiere delle unità.
+- Aggiunti indicatori di Crisi al Progresso nell'epoca per informare i giocatori riguardo i prossimi eventi di crisi o il loro peggioramento.
+- Nascosta l'interfaccia "Turni alla prossima istanza di crescita" quando è stato scelto un focus per un paese (che quindi non crescerà).
+- Il menu di pausa è stato ingrandito e riordinato per mostrare tutte le opzioni in modo migliore.
+- Risolto un problema segnalato relativo al pannello di produzione che non veniva aggiornato correttamente dopo aver completato un acquisto in un insediamento.
+- Migliorata la descrizione della carta Retaggio "Cambia capitale" per essere più coerente con il suo effetto.
+- La schermata di selezione della forma di governo adesso è visualizzata correttamente sui monitor ultrawide.
+- I ritratti delle unità adesso sono visualizzati correttamente dopo aver aperto e chiuso il menu diplomatico.
+- Le rese degli insediamenti adesso sono aggiornate correttamente nel menu di posizionamento degli edifici, anziché mostrare le rese dell'insediamento selezionato in precedenza.
+- La barra di progresso dei Comandanti d'armata nel pannello dell'unità adesso si aggiorna correttamente quando l'unità ottiene esperienza.
+- La bandiera "Meravigliosa" adesso è mostrata correttamente.
+- La pagina della Politica sulla privacy adesso è mostrata correttamente.
+- Il ritratto della Consigliera economica adesso viene mostrato correttamente nell'epoca antica.
+- Il messaggio "Scopri di più" adesso funziona correttamente se usato per le civiltà non possedute.
+- Risolto un problema segnalato che causava la mancata visualizzazione di edifici, meraviglie e miglioramenti nel menu di produzione, impedendo al giocatore di selezionarli per i propri insediamenti, rendendo possibile solo l'addestramento di unità.
+- L'indicatore dello stato di rivolta di un paese non può più mostrare valori negativi.
+- Risolti alcuni problemi dell'interfaccia a schermo che non veniva visualizzata come previsto.
+- Aggiunte alcune icone speciali per vari Capolavori.
+- Il punteggio Stanchezza di guerra non viene più assegnato erroneamente al leader sbagliato durante il primo incontro.
+- Risolto un problema segnalato che provocava la scomparsa del pannello delle unità quando il giocatore selezionava e chiudeva il pannello delle unità più volte.
+- Risolto un problema segnalato che disattivava il pulsante X dopo il passaggio all'epoca successiva.
+- Il Progresso civico Teologia adesso viene mostrato correttamente nella lista Scegli Progresso civico mostrata dopo aver fondato una religione.
+- L'icona di inserimento adesso è mostrata correttamente durante il tutorial del progresso dei Retaggi.
+- Risolto un problema segnalato che causava inconsistenze tra il numero di turni corretto e quello mostrato nel menu "paese in rivolta".
+- La pagina della Civilopedia dedicata all'infrastruttura esclusiva "Staatseisenbahn" adesso è visualizzata correttamente.
+- La bandiera di Serse è stata aggiornata.
+- Il menu delle promozioni dei Comandanti adesso è visualizzato correttamente in modalità finestra.
+Narrativa
+- Nuovi eventi:
+- L'eredità degli antichi
+- Un morbo nell'aria
+- La canzone dell'erudito
+- Autocrazia centralizzata
+- Un duro addestramento
+- Figli del cielo (versione inglese): modificato il testo che descrive i requisiti per il suo completamento da "school" a "schoolhouse".
+- Lezioni dalla terra: l'evento si avvia correttamente se Caterina ha comandato la Grecia nell'epoca antica.
+- Amore imperituro: il messaggio della ricompensa adesso viene visualizzato correttamente quando si posiziona il cursore sull'opzione.
+- L'anima dell'esercito: la prima opzione dell'evento può essere completata anche quando si gioca con la Spagna.
+- Il morso del ferro: il messaggio della ricompensa adesso viene visualizzato correttamente quando si posiziona il cursore sull'opzione.
+- Assedio e conquista: il messaggio della prima ricompensa selezionabile adesso viene visualizzato correttamente quando si posiziona il cursore sull'opzione.
+- Una messa per le masse: Rimossa l'icona Felicità superflua accanto alla prima opzione.
+- Serata inaugurale: il bonus di forza di combattimento per i carri è ora assegnato correttamente quando si seleziona l'opzione "Inscena una battaglia".
+- Il lago semovente: l'evento si attiverà solo se un'unità morirà durante una tempesta in una casella di deserto.
+- Non più nemici, ma neanche amici: l'evento si attiverà correttamente quando le Relazioni con un'altra civiltà passano al livello neutrale.
+- Rapporto militare: la ricompensa di produzione adesso è fornita solo alle unità "Obice", invece che a tutte le unità.
+- Il flagello dei carri armati: il bonus di forza di combattimento per i cannoni anticarro della seconda opzione adesso viene assegnato correttamente.
+- La natura della natura: l'evento si attiverà correttamente dopo aver costruito un Museo e un Teatro dell'opera.
+- Un mondo condiviso: l'evento adesso fornisce il corretto valore di rese.
+- Mi piacciono i cani / Mi piacciono i maiali / Mi piacciono le mucche: questi eventi non possono più essere attivati contemperamente.
+- Volontà di Ares: le ricompense sono ora fornite correttamente.
+- Arrivano le piogge: le ricompense sono ora fornite correttamente.
+- Adesso il costo in rese degli eventi di scoperta si aggiorna correttamente per indicarne la percentuale.
+- Corrette alcune inesattezze storiche della Civilopedia nella sezione dedicata all'Hermitage.
+- Migliorata la descrizione dei passaggi 1 e 2 del Percorso Retaggio Illuminismo.
+Varie
+- Il pulsante Continua adesso carica l'ultimo salvataggio manuale (se più recente del salvataggio automatico).
+- Migliorate le animazioni delle gru nei Porti e nelle Cave.
+- Aggiunti più dettagli alle caselle di tundra con vegetazione.
+- Risolto un problema segnalato causato dall'uso in contemporanea di controller e tastiera per muovere la telecamera.
+- Risolti alcuni problemi relativi alla resa grafica del terreno su schede grafiche AMD.
+- Adesso la modalità schermo dovrebbe aggiornarsi correttamente quando i giocatori passano dalla modalità finestra alla modalità schermo intero usando i tasti ALT+INVIO o F11.
+- Risolto un problema segnalato che permetteva ai giocatori di unirsi a una partita multigiocatore durante il conto alla rovescia usando un codice invito.
+- Risolto un problema segnalato che impediva il salvataggio delle impostazioni di gioco o l'annullamento delle ultime opzioni selezionate usando l'opzione "Annulla".
+Specifici delle piattaforme
+- PlayStation
+- Migliorato l'allineamento del pulsante Opzioni nell'interfaccia per evitare la sovrapposizione con altri elementi.
+- Tabella "Scegli un'epoca e una civiltà": il riquadro informativo di ogni civiltà adesso è mostrato correttamente accanto all'icona della civiltà.
+- Migliorata la fluidità degli input con controller per i vari comandi dell'interfaccia.
+- Aggiunta una notifica che informa il giocatore del completamento del salvataggio rapido.
+- Risolto un problema grafico relativo al modello di Ashoka, Colui che rinuncia al mondo nel menu principale.
+- Switch
+- Migliorata la traduzione di vari elementi di testo.
+- MacOS
+- Le rotte delle unità adesso possono essere posizionate più velocemente usando le funzioni del clic destro.
+Collezione Crocevia del mondo* – DLC 4-6
+Leader
+[DLC Crocevia del mondo*] Aggiunto un nuovo leader Simón Bolívar.
+Mentre la Spagna perdeva la sua capacità di controllare i propri domini oltreoceano a causa delle Guerre napoleoniche, Simón Bolívar "El Libertador" guidava i suoi uomini promettendo libertà. Tenace e carismatico, ottenne la vittoria sul campo di battaglia e l'indipendenza per il suo popolo, ma l'instabilità dell'indipendenza ritrovata si rivelò un ostacolo difficile da superare. Prima presidente e poi dittatore della Gran Colombia, Simón Bolívar fallì nel realizzare appieno le sue ambizioni. Ancora oggi, Bolívar rimane un esempio dell'intrepido orgoglio sudamericano.
+- Attributi: Espansionismo, Militarista
+- Abilità esclusiva - El Libertador: Ottieni una quantità di Supporto gratuito per le tue guerre. Quando conquisti un Insediamento per la prima volta, puoi acquistare gratuitamente una Costruzione. Puoi acquistare edifici e unità anche quando gli insediamenti sono in rivolta.
+- Agende - Pilastro della libertà: Migliora moderatamente le relazioni per il leader con il numero minore di insediamenti infelici. Peggiora lievemente le relazioni con il leader con il numero maggiore di insediamenti infelici.
+Civilizations
+[DLC Crocevia del mondo*] Aggiunta una nuova civiltà delle esplorazioni Bulgaria.
+Nel VII secolo, i bulgari attraversarono il Danubio e reclamarono il controllo dei Balcani. Più e più volte, i loro guerrieri sfruttarono le montagne a loro vantaggio, sconfiggendo eserciti molto più grandi con l'astuzia e la strategia. Il Primo Impero bulgaro si basò sulla conquista, l'espansionismo e un commercio costantemente in crescita. Il Secondo Impero fu invece la culla dell'arte, della letteratura, dell'architettura e delle tradizioni monastiche. La sua fine fu siglata sul campo di battaglia, per mano dell'impero ottomano.
+- Attributi: Militarista, Espansionismo
+- Abilità esclusiva - Dinastia di Krum: Saccheggiare i miglioramenti fornisce Cibo in tutti i paesi per un ammontare pari a una percentuale della salute o delle rese ottenute.
+- Unità civile esclusiva: Tarkhan (Unità comandante esclusiva)
+- Unità militare esclusiva: Boiardo (Unità cavalleria esclusiva)
+- Meraviglia associata: Monastero di Rila
+[DLC Crocevia del mondo*] Aggiunta nuova civiltà dell'epoca moderna Nepal.
+Situato tra le vette dell'Himalaya, abitato dai popoli buddisti dei suoi altopiani e dalle popolazioni indù più a valle, il Nepal lottò per la sua sovranità nonostante la propria posizione difficile. Il Nepal del XIX secolo era una nazione autocratica, governata da un ristretto numero di famiglie e protetta dai fieri guerrieri Gurkha. In seguito al trattato con gli inglesi, il Nepal riuscì a mantenere una parziale indipendenza in cima alla corona montuosa del mondo.
+- Attributi: Diplomazia, Cultura
+- Abilità esclusiva - Tetto del mondo: Tutti i Depositi si applicano alle caselle Montagne, ma hanno maggiori costi di Mantenimento in Cibo e Felicità.
+- Unità civile esclusiva: Sherpa (Unità scout esclusiva)
+- Unità militare esclusiva: Gurkha (Unità di fanteria esclusiva)
+- Meraviglia associata: Boudhanath
+*La Collezione Crocevia del mondo è inclusa nella Deluxe Edition e nella Founders Edition di Civilization VII. È anche disponibile per l'acquisto separato (è richiesto il gioco base). Contiene 6 DLC, tutti disponibili entro marzo 2025 (data soggetta a modifiche). Ogni DLC verrà distribuito automaticamente in gioco. Si applicano termini.

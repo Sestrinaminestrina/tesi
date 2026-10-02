@@ -1,3 +1,6 @@
 apify-client
 networkx
 matplotlib
+python-dotenv
+trafilatura
+lxml_html_clean

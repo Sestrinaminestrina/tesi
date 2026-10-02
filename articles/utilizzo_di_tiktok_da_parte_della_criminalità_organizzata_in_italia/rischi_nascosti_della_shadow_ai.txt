@@ -1,0 +1,98 @@
+L'AI generativa ha innescato una nuova ondata di produttività e, con essa, una nuova categoria di rischi per la sicurezza.
+Man mano che gli strumenti e le piattaforme AI diventano più accessibili e potenti, i dipendenti li adottano senza la supervisione dell'IT. In effetti, il nostro Report sullo stato della sicurezza dei dati 2025 ha rivelato che il 98% dei dipendenti utilizza app non autorizzate nei casi d'uso di shadow AI e shadow IT.
+Anche se può sembrare innocua, la shadow AI può esporre i tuoi dati sensibili, compromettere la conformità e introdurre vulnerabilità invisibili nel tuo ambiente. In questo articolo, scoprirai cos'è la shadow AI, perché è rischiosa per le aziende e come affrontarla senza frenare l'innovazione.
+Che cos'è la shadow AI?
+Shadow AI si riferisce all'uso di strumenti e applicazioni di intelligenza artificiale da parte dei dipendenti senza l'approvazione o la governance formale dei loro dipartimenti IT. Proprio come lo shadow IT, lo shadow AI coinvolge in particolare modelli di AI generativa, agenti, copilot, strumenti e altri sistemi di intelligenza artificiale che non sono stati sottoposti a processi di verifica della sicurezza adeguati.
+Grazie alla crescita esponenziale delle piattaforme di AI intuitive, i dipendenti possono accedere facilmente alle potenti funzionalità dell'intelligenza artificiale. La grande praticità, la convenienza, le funzionalità avanzate e la natura open source degli strumenti di AI li rendono allettanti per qualsiasi dipendente che voglia aumentare la propria produttività, ma comportano notevoli rischi nascosti. Il recente divieto del Congresso degli Stati Uniti nei confronti di Deepseek ha messo in evidenza i problemi di sicurezza critici legati alla shadow AI.
+La crescente minaccia alla sicurezza della shadow AI
+Le implicazioni per la sicurezza della shadow AI vanno ben oltre i tipici rischi software. I dipendenti che inseriscono dati aziendali in sistemi AI non autorizzati possono inavvertitamente esporre informazioni sensibili a entità esterne con pratiche di gestione dei dati poco chiare.
+Ecco a cosa prestare attenzione per capire come le piattaforme AI gestiscono i tuoi dati:
+Problemi legati al trattamento dei dati
+Esaminiamo la popolare piattaforma AI DeepSeek. Secondo la sua informativa sulla privacy, DeepSeek elabora i prompt degli utenti su server situati in Cina.
+Questo significa:
+- Tutti i dati inviati alla piattaforma sono soggetti alle leggi e ai regolamenti cinesi sulla privacy dei dati
+- Le organizzazioni potrebbero riscontrare problemi di conformità con i requisiti normativi statunitensi
+- Le informazioni riservate potrebbero essere elaborate al di fuori del perimetro di sicurezza dell'organizzazione
+- La sovranità dei dati diventa una preoccupazione significativa per le industrie regolamentate
+Mentre gli sviluppatori possono ospitare istanze locali di DeepSeek su server protetti, molti dipendenti utilizzano semplicemente la versione disponibile al pubblico senza considerare queste implicazioni.
+Esposizione di informazioni sensibili
+Supponiamo, ad esempio, che un rappresentante commerciale incolli il contratto di un cliente in uno strumento di AI per riassumere i punti chiave di una riunione. Senza rendersene conto, potrebbe aver esposto informazioni riservate sui prezzi, dati dei clienti e termini proprietari a server al di fuori del controllo dell'azienda. Questi dati potrebbero essere incorporati nei dati di addestramento dell'AI o essere accessibili a soggetti non autorizzati.
+L'atto in sé sembra abbastanza innocuo, ma questo tipo di perdita accidentale di dati rappresenta uno dei rischi più significativi associati alla shadow AI.
+Perché i divieti tradizionali non funzionano con la shadow AI
+Molte organizzazioni hanno affrontato il problema della shadow AI vietando strumenti come DeepSeek. I governi e interi paesi, come l'Italia, hanno adottato misure per bloccare alcune piattaforme di AI per proteggersi dai rischi della shadow AI.
+Tuttavia, i divieti aziendali tradizionali si sono rivelati difficili da far rispettare per diversi motivi:
+- I dipendenti trovano soluzioni alternative quando ritengono che l'AI possa aumentare la loro produttività
+- I dispositivi personali e le reti domestiche offrono punti di accesso alternativi
+- Il crescente numero di strumenti di AI rende impraticabile un blocco completo
+- I dipendenti potrebbero non comprendere le implicazioni per la sicurezza delle loro azioni
+Unisciti a noi per il nostro prossimo webinar, Tutto ciò che c'è da sapere sulla shadow AI.
+La sfida unica dell'IA open-source
+A differenza delle preoccupazioni relative ad applicazioni come TikTok o all'hardware di aziende come Huawei, gli strumenti di AI open-source presentano diverse criticità in termini di sicurezza.
+Modelli open-source:
+- Consentono ai criminali informatici di lanciare campagne massicce in modo più efficiente grazie al loro basso costo di addestramento e gestione
+- Creano difficoltà per le organizzazioni che cercano di capire quando e come vengono utilizzati questi strumenti
+- Contengono codice che può essere modificato e distribuito in modo da eludere il rilevamento
+- Aumentano la vulnerabilità agli attacchi mirati a causa della trasparenza dei modelli open source
+Strategie efficaci di riduzione dei rischi della shadow AI
+Non è solo una questione di rischi: le organizzazioni possono comunque trarre vantaggio dall'AI. Invece di bloccare o vietare tutti gli strumenti di AI, le organizzazioni possono implementare queste strategie per gestire i rischi della shadow AI cogliendone al contempo i vantaggi.
+Sviluppare politiche chiare per l'AI
+Le organizzazioni possono iniziare a ridurre i rischi dell'AI definendo e comunicando linee guida chiare sugli strumenti e gli usi dell'AI approvati.
+Le politiche tipiche includono:
+- Creare protocolli specifici per la gestione delle informazioni sensibili
+- Definire le conseguenze per l'uso non autorizzato di strumenti di intelligenza artificiale
+- Stabilire canali chiari per richiedere l'accesso a nuovi strumenti di AI
+- Aggiornare le policy di classificazione dei dati per tenere conto dei rischi specifici dell'AI
+Ad esempio, un team di marketing potrebbe sviluppare delle linee guida che consentano l'uso di strumenti di AI approvati per il brainstorming di concept di campagne, ma che richiedano una revisione umana prima di implementare qualsiasi contenuto generato dall'AI.
+Offrire alternative sicure
+Quando i dipendenti ricorrono alla shadow AI, spesso ciò indica che hanno bisogno di funzionalità non disponibili tramite i canali ufficiali.
+Per combattere questo, le organizzazioni dovrebbero:
+- Prendere in considerazione la creazione di istanze isolate utilizzando il codice open source
+- Valutare soluzioni AI di livello aziendale con controlli di sicurezza adeguati
+- Implementare versioni isolate che non si connettono a server esterni
+- Creare sandbox interne per l'IA dove i dipendenti possano sperimentare in sicurezza
+Ad esempio, i team di sviluppo software possono trarre vantaggio da assistenti alla programmazione ospitati internamente, che aiutano nelle attività senza esporre il codice proprietario a piattaforme AI esterne.
+Dare priorità alla formazione dei dipendenti
+Molti rischi legati alla shadow AI derivano più dalla mancanza di consapevolezza che da intenzioni malevole. Le organizzazioni che desiderano implementare l'AI hanno la responsabilità di:
+- Educare il personale sui rischi per la sicurezza dei dati associati agli strumenti di AI
+- Fornire alternative chiare alle app di AI non autorizzate
+- Spiegare cosa implica la condivisione di informazioni sensibili con i modelli AI
+- Creare quadri decisionali semplici per stabilire quando è opportuno utilizzare l'AI
+Implementare i controlli tecnici
+Le soluzioni tecniche offrono solide capacità nella gestione della shadow AI. Per proteggere il proprio ambiente per l'AI, le organizzazioni possono:
+- Implementare strumenti di Data Loss Prevention (DLP) per identificare i dati sensibili condivisi con le piattaforme di AI
+- Utilizzare il monitoraggio del DNS e dei proxy web per rilevare usi non autorizzati dell'AI
+- Implementare l'accesso con privilegi minimi per ridurre al minimo la potenziale esposizione
+- Verificare regolarmente le integrazioni delle applicazioni per identificare gli strumenti di shadow AI
+Abbracciare l'innovazione della shadow AI, ma con sicurezza
+La chiave per gestire efficacemente la shadow AI in un'organizzazione risiede nel bilanciare innovazione e sicurezza. Trovare questo equilibrio significa:
+- Creazione di percorsi chiari per consentire ai dipendenti di richiedere nuove funzionalità di AI
+- Definire quadri di valutazione dei rischi specifici per gli strumenti di AI
+- Riveda e aggiorni regolarmente le politiche sull'intelligenza artificiale man mano che la tecnologia si evolve
+- Coinvolgere le unità aziendali nelle decisioni di governance dell'AI
+Scoprire e gestire la shadow AI con Varonis
+Strumenti specializzati come Varonis consentono alle organizzazioni di identificare l'uso della shadow AI e affrontarne le sfide tramite funzionalità quali:
+- Funzionalità di monitoraggio della rete che rilevano l'uso degli strumenti di AI attraverso i log DNS e del proxy web
+- Funzionalità SSPM che identifica e rimuove automaticamente le app e i plugin di shadow AI integrati nelle applicazioni SaaS autorizzate senza l'approvazione del reparto IT
+- Monitoraggio delle attività degli utenti per determinare quali dipendenti hanno installato app di AI, quando l'hanno fatto e quali azioni hanno eseguito
+- Rilevamento e classificazione dei dati strumenti che possono identificare file, codice sorgente, e-mail e altri contenuti relativi a strumenti di AI non autorizzati
+Vuoi scoprire di più sul livello di sicurezza dei dati della tua organizzazione? Effettua il nostro Data Risk Assessment gratuito.
+I rischi nascosti della shadow AI: domande frequenti
+Che cos'è la shadow AI?
+Shadow AI si riferisce ai dipendenti che utilizzano strumenti e applicazioni di intelligenza artificiale senza l'approvazione o la governance formale da parte dei dipartimenti IT. Simile allo shadow IT, dove i dipendenti adottano software o hardware non autorizzati, lo shadow AI coinvolge specificamente modelli di intelligenza artificiale generativa, strumenti di apprendimento automatico e altri sistemi di intelligenza artificiale che non sono stati sottoposti a processi di verifica della sicurezza adeguati.
+Quali sono i rischi della shadow AI?
+I rischi della shadow AI includono:
+- Esposizione di dati aziendali sensibili a entità esterne con pratiche di gestione dei dati poco chiare
+- Problemi di conformità con i requisiti normativi quando i dati vengono elaborati in giurisdizioni diverse
+- Preoccupazioni sulla sovranità dei dati per le industrie regolamentate
+- Perdita accidentale di informazioni proprietarie
+- Potenziale elaborazione di dati aziendali su server con controlli di sicurezza sconosciuti.
+Quali sono alcuni esempi di shadow AI?
+Un esempio di shadow AI è l'uso da parte dei dipendenti di strumenti come ChatGPT o LLM open source (come DeepSeek) per scrivere codice, analizzare dati, generare contenuti di marketing o riassumere contratti con i clienti, il tutto senza l'approvazione del reparto IT o una verifica della sicurezza.
+In che modo le organizzazioni possono rilevare l'uso della shadow AI?
+La shadow AI può comportare la non conformità a normative come GDPR, HIPAA o CCPA se i dati sensibili vengono elaborati in ambienti non autorizzati o non regolamentati, soprattutto oltre i confini internazionali.
+Qual è la differenza tra shadow AI e shadow IT?
+La shadow AI è un sottoinsieme dello shadow IT focalizzato esplicitamente sull'uso non autorizzato di strumenti di AI. Mentre lo shadow IT include qualsiasi hardware o software non approvato, la shadow AI introduce rischi unici per la privacy dei dati e per l'addestramento dei modelli.
+O que devo fazer agora?
+Agende uma demonstração conosco Veja a usabilidade de Varonis em uma sessão personalizada com base nas necessidades de segurança de dados da sua organização. Responderemos a todas as suas perguntas.
+Veja um exemplo do nosso Relatório de Risco de Dados Conheça as ameaças que podem permanecer no seu ambiente. O Relatório da Varonis é gratuito e demonstra claramente como realizar a remediação automatizada.
+Siga-nos no LinkedIn, YouTube et X (Twitter) Obtenha insights detalhados sobre todos os aspectos da segurança de dados, incluindo DSPM, detecção de ameaças, segurança de IA, entre outros.

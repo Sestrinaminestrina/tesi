@@ -1,0 +1,15 @@
+Il Pixel di TikTok è un frammento di codice che puoi aggiungere al tuo sito Web per consentire la condivisione degli eventi del sito Web con TikTok. Il Pixel può essere utilizzato con qualsiasi strumento TikTok for Business per:
+Misurare il traffico sul tuo sito Web
+Misurare le performance delle campagne pubblicitarie
+Ottimizzare le tue campagne e trovare nuovi clienti
+A configurazione avvenuta e verifica superata sul tuo sito, il pixel condividerà informazioni relative a quando un’azione viene intrapresa sul tuo sito Web, in base agli eventi da te configurati. Consigliamo di configurare gli eventi relativi a un customer journey completo sul tuo sito, dalla visualizzazione di una pagina di dettaglio del prodotto all’aggiunta di un articolo al carrello, fino all’acquisto.
+Scopri di più su Gestore eventi.
+Il Pixel raccoglie le informazioni disponibili tramite browser Web standard, come Chrome, tra cui:
+Informazioni annuncio/evento: informazioni sull’annuncio su cui un utente TikTok ha fatto clic o su un evento che è stato avviato.
+Data e ora: usata per determinare quando hanno luogo le azioni sul sito Web, come, ad esempio, quando è stata visualizzata una pagina o è stato acquistato un prodotto.
+Indirizzo IP: usato per stabilire l’area geografica di un evento.
+Agente utente: usato per stabilire la marca, il modello, il sistema operativo e il browser del dispositivo.
+Cookie: usati per favorire la misurazione, ottimizzazione e targeting delle tue campagne. I cookie di prima parte sono facoltativi, ma i cookie di terze parti sono abilitati per impostazione predefinita quando si usa il Pixel di TikTok. Le performance migliorano quando i cookie di prima parte e di terze parti vengono associati alla Corrispondenza avanzata. Scopri di più sull’utilizzo dei cookie con il Pixel di TikTok.
+Metadati e clic sui pulsanti: include metadati descrittivi della pagina, microdati strutturati, dati sulle performance della pagina e clic sui pulsanti. In futuro, queste informazioni consentiranno a TikTok di fornire consigli su come migliorare la nostra configurazione degli eventi pixel e offrire soluzioni automatizzate. Queste informazioni possono anche essere utilizzate per personalizzare le campagne pubblicitarie per gli utenti di TikTok e migliorare i sistemi di pubblicazione degli annunci di TikTok. Scopri di più su come migliorare il postback dei dati con il Pixel di TikTok.
+Consigliamo l’utilizzo di Pixel Helper per visualizzare i dati inviati a TikTok e assicurarsi che siano in linea con le politiche di condivisione dei dati e che non includano informazioni che possano essere ritenute sensibili.
+Per saperne di più sulle politiche di raccolta dati, consulta i Termini dei prodotti aziendali di TikTok e l’Informativa sulla privacy di TikTok.
