@@ -74,8 +74,8 @@ def estrai_url(file_input, pattern, pattern_escluso=None, file_output=None):
 
 def dividi_tiktok(
     lista_url,
-    file_video="url_tiktok_video.txt",
-    file_profilo="url_tiktok_profilo.txt",
+    file_video=cartella_script / "url_tiktok_video.txt",
+    file_profilo=cartella_script / "url_tiktok_profilo.txt",
 ):
     """
     Divide gli url tiktok di lista_url tra url di video (scritti in file_video)
