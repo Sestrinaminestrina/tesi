@@ -1,4 +1,9 @@
 import re
+from pathlib import Path
+
+# Cartella in cui si trova questo script, usata per trovare i file di input
+# indipendentemente dalla cartella da cui lo si esegue
+cartella_script = Path(__file__).parent
 
 # Riconosce gli url tiktok con o senza protocollo e con qualsiasi sottodominio
 # (www., vm., vt., m.), fermandosi al primo spazio, virgolette o separatore
@@ -91,15 +96,15 @@ def dividi_tiktok(
 
 
 if __name__ == "__main__":
-    url_tiktok = estrai_url("chat_wa.txt", PATTERN_TIKTOK)
+    url_tiktok = estrai_url(cartella_script / "chat_wa_tirocinio.txt", PATTERN_TIKTOK)
     video, profili = dividi_tiktok(url_tiktok)
     print(f"video: {len(video)}, profili: {len(profili)}")
 
     # Pagine web (articoli) indicizzate da google: tutti gli url tranne i social
     articoli = estrai_url(
-        "chat_wa.txt",
+        cartella_script / "chat_wa_tirocinio.txt",
         PATTERN_GENERICO,
         pattern_escluso=PATTERN_SOCIAL,
-        file_output="url_google_articles.txt",
+        file_output=cartella_script / "url_google_articles.txt",
     )
     print(f"articoli: {len(articoli)}")

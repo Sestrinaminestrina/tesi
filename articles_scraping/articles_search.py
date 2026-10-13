@@ -265,6 +265,31 @@ def unisci_csv(percorsi_csv, nome_unito):
     return percorso
 
 
+def filtra_inerenti(nome_csv, nome_pulito):
+    # legge il csv nome_csv (separato da ";") e salva in nome_pulito, nella cartella di questo script,
+    # solo le righe la cui colonna inerenza non vale "no"
+    # restituisce il percorso del file creato; il csv originale non viene modificato
+    cartella = os.path.dirname(os.path.abspath(__file__))
+
+    # utf-8-sig ignora l'eventuale BOM aggiunto da excel all'inizio del file
+    with open(os.path.join(cartella, nome_csv), newline="", encoding="utf-8-sig") as file:
+        lettore = csv.DictReader(file, delimiter=";")
+        campi = lettore.fieldnames
+        # il nome della colonna può essere scritto con maiuscole diverse (es. "Inerenza")
+        colonna = next(campo for campo in campi if campo.strip().lower() == "inerenza")
+        # confronto senza distinguere maiuscole e spazi, così "No", "no" e " NO " vengono tutti scartati
+        righe = [riga for riga in lettore if (riga[colonna] or "").strip().lower() != "no"]
+
+    percorso = os.path.join(cartella, nome_pulito)
+
+    with open(percorso, "w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=campi, delimiter=";")
+        writer.writeheader()
+        writer.writerows(righe)
+
+    return percorso
+
+
 if __name__ == "__main__":
     # percorso = scraping_google("utilizzo di tiktok da parte della criminalità organizzata in Italia", 100)
     # print(f"Risultati salvati in {percorso}")
@@ -293,3 +318,6 @@ if __name__ == "__main__":
 
     percorso = unisci_csv(percorsi_csv, "articoli_uniti.csv")
     print(f"Csv unito salvato in {percorso}")
+
+    percorso = filtra_inerenti("articoli_uniti_inerenza.csv", "articoli_uniti_inerenza_puliti.csv")
+    print(f"Csv pulito salvato in {percorso}")
