@@ -290,20 +290,44 @@ def filtra_inerenti(nome_csv, nome_pulito):
     return percorso
 
 
+def crea_csv_nomi(nome_csv, nome_nomi):
+    # legge il csv nome_csv (separato da ";") e crea nome_nomi, nella cartella di questo script,
+    # con il campo url copiato da nome_csv e il campo nomi vuoto, da compilare a mano
+    # restituisce il percorso del file; se esiste già non viene sovrascritto, per non perdere i nomi inseriti
+    cartella = os.path.dirname(os.path.abspath(__file__))
+    percorso = os.path.join(cartella, nome_nomi)
+
+    if os.path.exists(percorso):
+        print(f"{nome_nomi} esiste già: non lo sovrascrivo")
+        return percorso
+
+    with open(os.path.join(cartella, nome_csv), newline="", encoding="utf-8-sig") as file:
+        lista_url = [riga["url"] for riga in csv.DictReader(file, delimiter=";")]
+
+    # uso ";" come separatore, come negli altri csv modificati a mano con excel
+    with open(percorso, "w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file, delimiter=";")
+        writer.writerow(["url", "nomi"])
+        writer.writerows([url, ""] for url in lista_url)
+
+    return percorso
+
+
 if __name__ == "__main__":
-    # percorso = scraping_google("utilizzo di tiktok da parte della criminalità organizzata in Italia", 100)
-    # print(f"Risultati salvati in {percorso}")
+    """
+    percorso = scraping_google("utilizzo di tiktok da parte della criminalità organizzata in Italia", 100)
+    print(f"Risultati salvati in {percorso}")
 
     # il csv della criminalità organizzata esiste già: ne ricavo solo il percorso, senza rifare la ricerca
     cartella = os.path.dirname(os.path.abspath(__file__))
     percorsi_csv = [
         os.path.join(cartella, nome_file("utilizzo di tiktok da parte della criminalità organizzata in Italia", "csv")),
     ]
-
+    
     percorso = scraping_google("utilizzo di tiktok da parte della camorra", 20)
     print(f"Risultati salvati in {percorso}")
     percorsi_csv.append(percorso)
-
+    
     percorso = scraping_google("utilizzo di tiktok da parte di cosa nostra", 20)
     print(f"Risultati salvati in {percorso}")
     percorsi_csv.append(percorso)
@@ -321,3 +345,7 @@ if __name__ == "__main__":
 
     percorso = filtra_inerenti("articoli_uniti_inerenza.csv", "articoli_uniti_inerenza_puliti.csv")
     print(f"Csv pulito salvato in {percorso}")
+    """
+    
+    percorso = crea_csv_nomi("articoli_uniti_inerenza_puliti.csv", "articoli_nomi.csv")
+    print(f"Csv dei nomi salvato in {percorso}")
