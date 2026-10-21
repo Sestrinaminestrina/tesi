@@ -313,6 +313,45 @@ def crea_csv_nomi(nome_csv, nome_nomi):
     return percorso
 
 
+def aggiungi_url_wa(nome_csv, nome_txt, nome_completo):
+    # legge il csv nome_csv (separato da ";") e il file nome_txt con un url per riga, e salva in
+    # nome_completo, nella cartella di questo script, il csv originale con in fondo una riga per ogni
+    # url non ancora presente: tutti i campi vuoti tranne fonte, che vale "wa"
+    # restituisce il percorso del file creato; i file originali non vengono modificati
+    cartella = os.path.dirname(os.path.abspath(__file__))
+
+    with open(os.path.join(cartella, nome_csv), newline="", encoding="utf-8-sig") as file:
+        lettore = csv.DictReader(file, delimiter=";")
+        campi = lettore.fieldnames
+        righe = list(lettore)
+
+    # il nome della colonna può essere scritto con maiuscole diverse (es. "Fonte")
+    colonna_fonte = next(campo for campo in campi if campo.strip().lower() == "fonte")
+    url_presenti = {riga["url"].strip() for riga in righe}
+
+    with open(os.path.join(cartella, nome_txt), encoding="utf-8") as file:
+        lista_url = [riga.strip() for riga in file if riga.strip()]
+
+    for url in lista_url:
+        # salto gli url già in tabella, compresi quelli ripetuti nel txt stesso
+        if url in url_presenti:
+            continue
+        url_presenti.add(url)
+        nuova_riga = {campo: "" for campo in campi}
+        nuova_riga["url"] = url
+        nuova_riga[colonna_fonte] = "wa"
+        righe.append(nuova_riga)
+
+    percorso = os.path.join(cartella, nome_completo)
+
+    with open(percorso, "w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=campi, delimiter=";")
+        writer.writeheader()
+        writer.writerows(righe)
+
+    return percorso
+
+
 if __name__ == "__main__":
     """
     percorso = scraping_google("utilizzo di tiktok da parte della criminalità organizzata in Italia", 100)
@@ -345,7 +384,10 @@ if __name__ == "__main__":
 
     percorso = filtra_inerenti("articoli_uniti_inerenza.csv", "articoli_uniti_inerenza_puliti.csv")
     print(f"Csv pulito salvato in {percorso}")
-    """
     
     percorso = crea_csv_nomi("articoli_uniti_inerenza_puliti.csv", "articoli_nomi.csv")
     print(f"Csv dei nomi salvato in {percorso}")
+    """
+
+    percorso = aggiungi_url_wa("analisi_articoli.csv", "url_google_articles.txt", "analisi_articoli_completi.csv")
+    print(f"Csv completo salvato in {percorso}")

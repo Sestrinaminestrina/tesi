@@ -108,3 +108,4 @@ if __name__ == "__main__":
         file_output=cartella_script / "url_google_articles.txt",
     )
     print(f"articoli: {len(articoli)}")
+    
