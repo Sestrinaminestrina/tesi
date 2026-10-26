@@ -1,3 +1,4 @@
+import csv
 import re
 from pathlib import Path
 
@@ -95,10 +96,39 @@ def dividi_tiktok(
     return lista_video, lista_profili
 
 
+def crea_csv_video(
+    file_input=cartella_script / "url_tiktok_video.txt",
+    file_output=cartella_script / "analisi_video_completi.csv",
+):
+    """
+    Legge gli url dei video da file_input (uno per riga) e crea il csv
+    file_output con i campi url, donne, carcerati, minori, simboli, note
+    (vuoti, da compilare) e fonte (sempre "wa").
+    Restituisce il numero di righe scritte.
+    """
+    with open(file_input, "r", encoding="utf-8") as f:
+        # Ignora le righe vuote (es. a fine file)
+        lista_url = [riga.strip() for riga in f if riga.strip()]
+
+    campi = ["url", "donne", "carcerati", "minori", "simboli", "note", "fonte"]
+    with open(file_output, "w", encoding="utf-8", newline="") as f:
+        scrittore = csv.DictWriter(f, fieldnames=campi)
+        scrittore.writeheader()
+        for url in lista_url:
+            # I campi non indicati vengono lasciati vuoti
+            scrittore.writerow({"url": url, "fonte": "wa"})
+
+    return len(lista_url)
+
+
 if __name__ == "__main__":
+    """
     url_tiktok = estrai_url(cartella_script / "chat_wa_tirocinio.txt", PATTERN_TIKTOK)
     video, profili = dividi_tiktok(url_tiktok)
     print(f"video: {len(video)}, profili: {len(profili)}")
+
+    righe_csv = crea_csv_video()
+    print(f"righe csv video: {righe_csv}")
 
     # Pagine web (articoli) indicizzate da google: tutti gli url tranne i social
     articoli = estrai_url(
@@ -108,4 +138,5 @@ if __name__ == "__main__":
         file_output=cartella_script / "url_google_articles.txt",
     )
     print(f"articoli: {len(articoli)}")
+    """
     
