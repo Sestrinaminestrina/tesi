@@ -121,7 +121,35 @@ def crea_csv_video(
     return len(lista_url)
 
 
+def crea_csv_profili(
+    file_input=cartella_script / "url_tiktok_profilo.txt",
+    file_output=cartella_script / "analisi_profili_completi.csv",
+):
+    """
+    Legge gli url dei profili da file_input (uno per riga) e crea il csv
+    file_output con i campi url, donne, minori, carcerati, note
+    (vuoti, da compilare) e fonte (sempre "wa").
+    Restituisce il numero di righe scritte.
+    """
+    with open(file_input, "r", encoding="utf-8") as f:
+        # Ignora le righe vuote (es. a fine file)
+        lista_url = [riga.strip() for riga in f if riga.strip()]
+
+    campi = ["url", "donne", "minori", "carcerati", "note", "fonte"]
+    with open(file_output, "w", encoding="utf-8", newline="") as f:
+        scrittore = csv.DictWriter(f, fieldnames=campi)
+        scrittore.writeheader()
+        for url in lista_url:
+            # I campi non indicati vengono lasciati vuoti
+            scrittore.writerow({"url": url, "fonte": "wa"})
+
+    return len(lista_url)
+
+
 if __name__ == "__main__":
+    righe_profili = crea_csv_profili()
+    print(f"righe csv profili: {righe_profili}")
+
     """
     url_tiktok = estrai_url(cartella_script / "chat_wa_tirocinio.txt", PATTERN_TIKTOK)
     video, profili = dividi_tiktok(url_tiktok)
