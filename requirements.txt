@@ -5,3 +5,6 @@ python-dotenv
 trafilatura
 lxml_html_clean
 spacy
+numbers-parser
+yt-dlp
+gallery-dl
